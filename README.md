@@ -12,7 +12,7 @@
 
 ## ダウンロードと使い方
 
-### ダウンロード: [Windows]()
+### ダウンロード: [Windows](https://github.com/Fairy-Phy/osr_hash_changer/releases/download/v1.0.0/osr_hash_changer.exe)
 
 ### 1, 変更対象のリプレイファイル(.osr)のパスを入力
 
